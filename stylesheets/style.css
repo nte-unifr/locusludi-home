@@ -1,0 +1,31 @@
+a {
+  color: #A9746F;
+}
+a:hover {
+  color: #9E554E;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.btn {
+  color: #fff;
+  background-color: #A9746F;
+  border-color: #A9746F;
+  margin-bottom: 2px;
+}
+.btn:hover {
+  color: #fff;
+  background-color: #9E554E;
+  border-color: #9E554E;
+}
+.btn:active {
+  color: #fff;
+  background-color: #9E554E;
+  border-color: #9E554E;
+}
+
+.contact {
+  margin-top: 40px;
+}
