@@ -1,0 +1,9 @@
+# Capistrano
+/Capfile
+/Gemfile
+/Gemfile.lock
+/config/deploy/*
+/config/deploy.rb
+/lib/capistrano/*
+/.bundle/*
+/log/capistrano.log
