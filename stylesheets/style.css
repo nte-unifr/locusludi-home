@@ -29,3 +29,7 @@ a:hover {
 .contact {
   margin-top: 40px;
 }
+
+#instafeed img {
+  padding: 3px;
+}
