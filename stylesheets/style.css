@@ -33,3 +33,7 @@ a:hover {
 #instafeed img {
   padding: 3px;
 }
+
+.card.main .card-footer {
+  background-color: rgba(169, 116, 111, 0.3);
+}
