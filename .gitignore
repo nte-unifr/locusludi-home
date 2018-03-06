@@ -7,3 +7,5 @@
 /lib/capistrano/*
 /.bundle/*
 /log/capistrano.log
+
+instafeed-setup.js
